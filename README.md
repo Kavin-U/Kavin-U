@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavin-U
 - 👀 I’m interested in Coding, UI, Learning....
 - 🌱 I’m currently learning MERN STACK DEV.
-- 📫 How to reach me Watsapp : 8220427248
+- 📫 How to reach me Linked in : https://www.linkedin.com/in/kavin-u/
 - ⚡ Fun fact: Javascript -the king of coding kingdom and I do love this part...
